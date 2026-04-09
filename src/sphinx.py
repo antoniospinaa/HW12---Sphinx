@@ -1,10 +1,10 @@
 """
-hello.py
+sphinx.py
 ====================================
 This is an example file with correct docstring examples
 
-| Author: Seth McNeill
-| Date: 2025 September 07
+| Author: Antonio Spina
+| Date: 2026 April 9
 """
 
 class SayHello:
