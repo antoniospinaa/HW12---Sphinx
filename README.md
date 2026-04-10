@@ -1,5 +1,6 @@
-# CSCI310-Template-2025
-Template for assignments in CSCI310 Fall 2025
+# CSCI310-Antonio_Spina-2026
+Template for assignments in CSCI310 Sprin 2026 Sphinx
+https://github.com/antoniospinaa/HW12---Sphinx
 
 ## Prerequisites
 These instructions assume the following:
